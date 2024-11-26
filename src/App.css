@@ -1,0 +1,37 @@
+.App {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.button-container {
+
+  .button {
+    button {
+      margin: 10px;
+    }
+  }
+
+  .heading {
+    display: flex;
+    margin: 10px;
+  }
+
+  .button-group {
+    margin: 10px;
+  }
+}
+
+/* .button-group-container {
+  border: 0.5px solid gray;
+  border-radius: 5px;
+
+
+  .heading {
+    margin: 10px;
+  }
+} */
